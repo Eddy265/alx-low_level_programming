@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main is my main function 
+ * main - my main function 
  *
  * return: returns 0 when successful
  */
