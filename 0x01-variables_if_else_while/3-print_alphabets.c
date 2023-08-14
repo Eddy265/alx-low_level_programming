@@ -8,7 +8,7 @@
 int main(void)
 {
 
-	chai i;
+	char i;
 
 	for (i = 'a'; i <= 'z'; i++)
 		putchar(i);
