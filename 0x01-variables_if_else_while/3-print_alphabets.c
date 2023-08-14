@@ -7,6 +7,7 @@
 
 int main(void)
 {
+
 	chai i;
 
 	for (i = 'a'; i <= 'z'; i++)
